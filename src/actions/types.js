@@ -1,0 +1,9 @@
+export const SET_LOADING = "SET_LOADING";
+
+export const SET_USER_AUTH = "SET_USER_AUTH";
+
+export const SET_ERROR = "SET_ERROR";
+
+export const SET_BACKGROUND_RESOURCES = "SET_BACKGROUND_RESOURCES";
+
+export const SET_CAROUSEL_ITEM = "SET_CAROUSEL_ITEM";
